@@ -34,6 +34,11 @@ body {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
+.logo-h{
+  width: 60px;
+  height: 60px;
+
+}
 
 /* line 17, ../../Arafath/CL/December/229. Restaurant (Burger)/HTML/scss/theme-default.scss */
 a,
